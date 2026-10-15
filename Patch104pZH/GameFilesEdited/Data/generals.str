@@ -1,4 +1,3 @@
-// String file for Generals: Zero Hour
 
 // comment: \n is a control character set that stands for a new line
 // \" is an escaped quote that will be printed as text
@@ -2437,7 +2436,6 @@ END
 // context: Warning message. The player has placed too many beacons and he cannot place any more.
 GUI:TooManyBeacons
 US: "Sorry, you can't place any more Beacons"
-DE: "Du kannst keine weiteren Notizen platzieren."
 FR: "Vous ne pouvez plus placer de balise."
 ES: "Lo siento, no puedes colocar más señales."
 IT: "Purtroppo non puoi posizionare altri radiofari."
@@ -3376,7 +3374,6 @@ END
 //          that he has reached the limit of units that he can select at once
 GUI:MaxSelectionSize
 US: "You can only select %d units at one time"
-DE: "Du kannst maximal %d Einheiten gleichzeitig auswählen."
 FR: "Vous ne pouvez sélectionner que %d unités à la fois."
 ES: "Sólo puedes seleccionar %d unidades a la vez."
 IT: "Puoi selezionare al massimo %d unità alla volta."
@@ -3794,7 +3791,6 @@ END
 // context: Congratulation message for the winner at the end of a match
 GUI:YouAreVictorious
 US: "You are Victorious!"
-DE: "Du hast gewonnen!"
 FR: "Vous avez gagné !"
 ES: "¡Has conseguido la victoria!"
 IT: "Hai vinto!"
@@ -3810,7 +3806,6 @@ END
 // context: Informative message for the loser at the end of a match
 GUI:YouHaveBeenDefeated
 US: "You have been Defeated"
-DE: "Du hast verloren!"
 FR: "Vous avez échoué..."
 ES: "Te han derrotado"
 IT: "Sei stato sconfitto."
@@ -5410,7 +5405,6 @@ END
 // context: Help text for the select Audio Provider button
 TOOLTIP:ProviderSelect
 US: "Select the 3-D Audio Provider. The game has already chosen your optimal set up but you may manually change if you prefer"
-DE: "Wähle einen 3D Audio-Provider aus. Das Spiel hat bereits die optimalen Einstellungen gewählt. Du kannst diese natürlich jederzeit ändern."
 FR: "Sélectionnez le périphérique audio 3D. Le jeu a déjà choisi la configuration optimale mais vous pouvez la modifier manuellement."
 ES: "Elige el Proveedor de Audio 3D. El juego ya ha seleccionado tu configuración óptima, pero puedes cambiarla manualmente si quieres."
 IT: "Seleziona la fonte audio 3D. Il gioco ha preselezionato l'impostazione ideale, ma se preferisci puoi modificarla manualmente."
@@ -5426,7 +5420,6 @@ END
 // context: Help text for the Speaker configuration button
 TOOLTIP:SpeakerSelect
 US: "Select your speaker setup. The game has already chosen your optimal set up but you may manually change if you prefer"
-DE: "Wähle die Lautsprecher-Konfiguration. Das Spiel hat bereits die optimalen Einstellungen gewählt. Du kannst diese natürlich jederzeit ändern."
 FR: "Sélectionnez la configuration de vos haut-parleurs. Le jeu a déjà choisi la configuration optimale mais vous pouvez la modifier manuellement."
 ES: "Elige la configuración del altavoz. El juego ya ha seleccionado tu configuración óptima, pero puedes cambiarla manualmente si quieres."
 IT: "Seleziona la configurazione delle casse. Il gioco ha preselezionato l'impostazione ideale, ma se preferisci puoi modificarla manualmente."
@@ -6324,7 +6317,6 @@ END
 //          This message is displayed in the chat window of the multiplayer lobby.
 GUI:NeedMorePlayers
 US: "You need more player(s) to start the game"
-DE: "Du brauchst mehr Mitspieler, um das Spiel zu starten."
 FR: "D'autres joueurs sont nécessaires pour lancer la partie."
 ES: "Necesitas más jugadores para empezar la partida."
 IT: "Ti servono altri giocatori per iniziare la partita."
@@ -7527,7 +7519,6 @@ END
 // context: Failure to join a GameSpy chat room or game being hosted
 GUI:JoinFailedBannedFromRoom
 US: "Failed to join - you have been banned from the room"
-DE: "Anmeldung gescheitert - Du wurdest aus dem Raum verbannt."
 FR: "Accès impossible. Vous avez été banni de la salle."
 ES: "Error de acceso: te han vetado de esta sala."
 IT: "Ingresso fallito, sei stato bandito dalla stanza."
@@ -7559,7 +7550,6 @@ END
 // context: Failure to join a GameSpy chat room or game being hosted
 GUI:JoinFailedAlreadyInRoom
 US: "Failed to join - you are already in a room"
-DE: "Anmeldung gescheitert - Du bist schon in einem Raum."
 FR: "Accès impossible. Vous êtes déjà dans une salle."
 ES: "Error de acceso: ya estás en una sala."
 IT: "Ingresso fallito, sei già entrato in una stanza."
@@ -7705,7 +7695,6 @@ END
 // context: You have to use a profile in order to be able to store friend lists
 GUI:GPNoProfile
 US: "You did not log in using a Profile. No Buddy information is available"
-DE: "Du hast dich ohne Profil angemeldet. Keine Buddy-Informationen verfügbar!"
 FR: "Vous ne vous êtes pas connecté avec un profil. Aucune info sur les amis disponible."
 ES: "Has entrado sin usar Perfil. No tienes disponible la información de tus colegas."
 IT: "Non ti sei collegato usando un profilo. Non sono disponibili informazioni sugli amici."
@@ -8002,7 +7991,6 @@ END
 // context: Warning to the player when he is low in money.
 GUI:NotEnoughMoneyToBuild
 US: "You don't have enough money to build that"
-DE: "Du hast zu wenig Geld!"
 FR: "Vous n'avez pas assez d'argent pour construire cela."
 ES: "No tienes dinero para construir eso."
 IT: "Non hai abbastanza denaro per la costruzione."
@@ -9225,7 +9213,6 @@ END
 // context: Message to the player to inform him that he MUST update the game
 GUI:MustPatchForOnline
 US: "You must download the Update to play C&C Generals Zero Hour Online"
-DE: "Du musst das Update herunterladen, damit du\nGeneräle - Die Stunde Null online spielen kannst."
 FR: "Vous devez télécharger la mise à jour pour jouer à Generals - Heure H en ligne."
 ES: "Tienes que descargar la actualización para jugar a C&C Generals Zero Hour Online."
 IT: "Devi scaricare l'aggiornamento per giocare a C&C Generals Zero Hour Online."
@@ -9693,7 +9680,6 @@ END
 
 WOL:ServerBan
 US: "Sorry, you've been banned from C&C Generals Zero Hour Online. Please review the Service Terms"
-DE: "Du wurdest aus Generäle - Die Stunde Null Online ausgeschlossen. Bitte lies die Nutzungsbedingungen."
 FR: "Vous avez été banni de Generals - Heure H en ligne. Veuillez consulter les conditions d'utilisation."
 ES: "Te han prohibido el acceso a C&C Generals Zero Hour Online. Repasa los Términos de Servicio."
 IT: "Purtroppo sei stato bandito da C&C Generals Zero Hour Online. Consulta nuovamente i termini d'uso."
@@ -9708,7 +9694,6 @@ END
 
 WOL:DisconnectedError
 US: "Sorry, you've been banned from C&C Generals Zero Hour Online. Please review the Service Terms"
-DE: "Du wurdest aus Generäle - Die Stunde Null Online ausgeschlossen. Bitte lies die Nutzungsbedingungen."
 FR: "Vous avez été banni de Generals - Heure H en ligne. Veuillez consulter les conditions d'utilisation."
 ES: "Te han prohibido el acceso a C&C Generals Zero Hour Online. Repasa los Términos de Servicio."
 IT: "Purtroppo sei stato bandito da C&C Generals Zero Hour Online. Consulta nuovamente i termini d'uso."
@@ -10008,7 +9993,6 @@ END
 
 WOL:ChatErrorBanned
 US: "Sorry, you've been banned from C&C Generals Zero Hour Online. Please review the Service Terms"
-DE: "Du wurdest aus Generäle - Die Stunde Null Online ausgeschlossen. Bitte lies die Nutzungsbedingungen."
 FR: "Vous avez été banni de Generals - Heure H en ligne. Veuillez consulter les conditions d'utilisation."
 ES: "Te han prohibido el acceso a C&C Generals Zero Hour Online. Repasa los Términos de Servicio."
 IT: "Purtroppo sei stato bandito da C&C Generals Zero Hour Online. Consulta nuovamente i termini d'uso."
@@ -10312,7 +10296,6 @@ END
 
 WOL:BannedFromChannel
 US: "You've been banned from the channel"
-DE: "Du wurdest aus dem Channel verbannt."
 FR: "Vous avez été banni du canal."
 ES: "Te han vetado del canal."
 IT: "Sei stato bandito dal canale."
@@ -10357,7 +10340,6 @@ END
 
 WOL:OldWOLAPI
 US: "Shared Internet Components need to be updated. Please install from the C&C Generals Zero Hour disc"
-DE: "Aktualisiere die gemeinsamen Internetkomponenten. Du findest sie auf der C&C Generäle - Die Stunde Null-CD."
 FR: "Les composants Internet partagés doivent être mis à jour. Veuillez les installer à partir du disque de C&C Generals - Heure H."
 ES: "Hay que actualizar los componentes compartidos de Internet. Instala desde el disco de C&C Generals Zero Hour"
 IT: "I componenti condivisi di Internet devono essere aggiornati. Installali dal disco di C&C Generals Zero Hour."
@@ -11024,7 +11006,6 @@ END
 // context: Player needs more than %d (number of players) to start this kind of game
 LAN:NeedMorePlayers
 US: "You need more than %d player(s) to start a game"
-DE: "Du brauchst mehr als %d Spieler, um ein Spiel zu starten."
 FR: "Il faut plus de %d joueur(s) pour lancer une partie."
 ES: "Necesitas más de %d jugadores para empezar una partida."
 IT: "Ancora %d giocatore/i è/sono necessario/i per iniziare una partita."
@@ -11040,7 +11021,6 @@ END
 // context: Player needs more than 1 team to play a network game
 LAN:NeedMoreTeams
 US: "You need more than 1 team to start a game"
-DE: "Du brauchst mehr als 1 Team, um ein Spiel zu starten."
 FR: "Il faut plus d'une équipe pour lancer une partie."
 ES: "Necesitas más de 1 equipo para empezar una partida."
 IT: "Ti serve più di una squadra per iniziare una partita."
@@ -11741,7 +11721,7 @@ KO: "현재 제너럴 제로 아워 온라인에 있는 플레이어들의 목�
 ZH: "列出現在於 將軍：決戰時刻 線上遊戲的玩家。"
 BP: "Lista de jogadores atualmente conectados ao C&C Generals Zero Hour Online."
 PL: "Lista graczy obecnych na serwerze C&C Generals: Zero Hour Online."
-RU: "Список игроков, находящихся  в сети Generals Online"
+RU: "Список игроков, находящихся в сети Generals Online"
 AR: "List of players currently on C&C Generals Zero Hour Online"
 UK: "Список гравців на C&C Generals Zero Hour Online"
 END
@@ -12574,7 +12554,7 @@ GUI:RallyPointSet
 US: "%s rally point set"
 DE: "Sammelpunkt für %s platziert."
 FR: "Point de ralliement %s défini."
-ES: "%s : fijado punto de concentración."
+ES: "%s: fijado punto de concentración."
 IT: "Punto di raccolta %s impostato."
 KO: "%s 집결지를 설정했습니다."
 ZH: "%s 設置集合點。"
@@ -26960,7 +26940,6 @@ END
 // context: Placeholder - DO NOT TRANSLATE!!!
 SCRIPT:CHI02AudioHolder16
 US: "<'EVA' speaking>\n'General, the GLA have brought their Toxin Tractors with them. You'll know them by the green ooze they spray. Keep your infantry units away from them and use your tanks to deal with this new threat.'"
-DE: "<'EVA' spricht>\n'General, die IBG hat ihre Toxin-Traktoren mitgebracht. Du kennst sie an dem grünen Schlamm, den sie versprühen. Halten Sie Ihre Infanterieeinheiten von ihnen fern und setzen Sie Ihre Panzer ein, um mit dieser neuen Bedrohung fertig zu werden.'"
 FR: "<'EVA' parlant>\n'Général, les GLA ont apporté leurs Toxin Tractors avec eux. Vous les reconnaîtrez à la vase verte qu'ils pulvérisent. Gardez vos unités d'infanterie loin d'eux et utilisez vos chars pour faire face à cette nouvelle menace.'"
 ES: "<'EVA' speaking>\n'General, the GLA have brought their Toxin Tractors with them. You'll know them by the green ooze they spray. Keep your infantry units away from them and use your tanks to deal with this new threat.'"
 IT: "<'EVA' speaking>\n'General, the GLA have brought their Toxin Tractors with them. You'll know them by the green ooze they spray. Keep your infantry units away from them and use your tanks to deal with this new threat.'"
@@ -27539,7 +27518,7 @@ KO: "임무 목표:\n벙커 4개 점령 후 모든 미국 옹호자들을 섬멸
 ZH: "任務目標：\n佔領四個碉堡及徹底摧毀所有美國防禦兵力。"
 BP: "OBJETIVO DA MISSÃO:\nCapture 4 Bunkers e elimine todas as forças americanas."
 PL: "CEL MISJI:\nZajmij cztery bunkry i zlikwiduj wszystkich Amerykanów, którzy ich bronią."
-RU: "ЦЕЛЬ МИССИИ:\nЗахватить 4 бункера и  уничтожить американские войска"
+RU: "ЦЕЛЬ МИССИИ:\nЗахватить 4 бункера и уничтожить американские войска"
 AR: "MISSION OBJECTIVE:\nCapture 4 Bunkers and Wipe out all American defenders"
 UK: "МЕТА МІСІЇ:\nЗахопіть 4 бункери та знищіть усіх американських захисників"
 END
@@ -27614,7 +27593,7 @@ KO: "벙커 수가 충분해졌습니다.\n미군을 섬멸하여 승리를 쟁�
 ZH: "您已擁有必需的碉堡數。\n現在徹底摧毀美軍以確保您的勝利！"
 BP: "Você possui o número necessário de Bunkers.\nAgora, elimine os americanos e assegure sua vitória!"
 PL: "Zajmujesz wymaganą liczbę bunkrów.\nTeraz, aby przypieczętować zwycięstwo, zlikwiduj Amerykanów!"
-RU: "Вы завладели необходимым количеством бункеров.\nТеперь уничтожьте  американцев, чтобы обеспечить свою победу!"
+RU: "Вы завладели необходимым количеством бункеров.\nТеперь уничтожьте американцев, чтобы обеспечить свою победу!"
 AR: "You own the required number of bunkers\nNow wipe out the Americans to secure your victory"
 UK: "Ви володієте необхідною кількістю бункерів\nТепер знищіть американців, щоб забезпечити свою перемогу"
 END
@@ -27896,7 +27875,6 @@ END
 
 SCRIPT:TrainingCommand
 US: "You have liberated a USA Command Center. Here you can use many of your special abilities. To choose technologies and special weapons click on the flashing General button"
-DE: "Du hast die WA-Kommandozentrale befreit. In der Zentrale kannst du deine Spezialfähigkeiten einsetzen. Klicke auf die blinkende General-Schaltfläche, wenn du eine Technologie oder eine Spezialwaffe auswählen möchtest."
 FR: "Vous avez libéré un Poste de commandement US. Vous pouvez y utiliser nombre de vos capacités spéciales. Pour sélectionner des technologies et des armes spéciales, cliquez sur le bouton Général scintillant."
 ES: "Has liberado el Centro de mando de E.E.U.U. Aquí puedes usar muchas de tus capacidades especiales. Para escoger tecnologías y armas especiales haz clic en el botón parpadeante General."
 IT: "Hai liberato un Centro comando USA: qui puoi sfruttare le abilità speciali. Per selezionare tecnologie e armi speciali, clicca sul pulsante con le tre stelle."
@@ -27926,7 +27904,6 @@ END
 
 SCRIPT:TrainingBarracks
 US: "You have liberated a USA Barracks. Buildings like this allow you to train new units. The Barracks trains soldiers. Left click on your new Barracks to see what soldiers you can train. Left click on a unit in the Barracks to spend the supplies to create that unit"
-DE: "Du hast die WA-Cyborg-Kaserne befreit. In Produktionsstätten werden Cyborgs gebaut. Wenn du wissen willst, welche Einheiten du bauen kannst, linksklicke jetzt auf deine neue Cyborg-Kaserne. Nach einem Klick auf die gewünschte Einheit beginnt der Bau."
 FR: "Vous avez libéré une Caserne américaine. Vous pouvez entraîner de nouvelles unités dans ce type de bâtiment. Cliquez sur la nouvelle Caserne pour voir quel type de soldats vous pouvez y entraîner. Cliquez sur une unité dans la Caserne pour dépenser les réserves nécessaires à sa création."
 ES: "Has liberado los Barracones de E.E.U.U. En estos edificios podrás entrenar unidades nuevas. Los barracones entrenan soldados. Haz clic sobre los barracones para ver qué soldados puedes entrenar o sobre una unidad para gastar suministros en crearla."
 IT: "Hai liberato una Caserma USA. Gli edifici come questo permettono di addestrare nuove unità: nella Caserma si addestrano i soldati. Clicca col pulsante sinistro sulla Caserma per vedere quali unità puoi addestrare, quindi clicca su una di esse per produrla."
@@ -27941,7 +27918,6 @@ END
 
 SCRIPT:TrainingPilots
 US: "You have freed several Pilots. USA pilots are often veterans of many battles and they can enter your vehicles to provide their skills and experience to the crew of the vehicle. Vehicles with golden chevrons near them have experienced crews and are more effective in combat"
-DE: "Du hast mehrere Piloten befreit. WA-Piloten sind meist kampferprobte Veteranen, die aufgrund ihrer Erfahrung verschiedene Fahrzeuge steuern können. Natürlich profitiert auch die Besatzung eines Fahrzeugs von dieser Erfahrung. Mit goldenen Winkeln markierte Fahrzeuge sind aus diesem Grund deutlich effektiver."
 FR: "Vous avez libéré plusieurs Pilotes. Les Pilotes américains sont souvent des vétérans de guerre. Ils peuvent monter dans des véhicules et partager leurs connaissances avec l'équipage. Les véhicules disposant de chevrons dorés près d'eux sont plus expérimentés et plus efficaces au combat."
 ES: "Has liberado a muchos pilotos. Los pilotos de E.E.U.U. son a menudo veteranos de guerra y pueden entrar en tu vehículos para compartir sus conocimientos y experiencia con la dotación. Los vehículos con galones dorados tienen tripulación experimentada y son más efectivos en combate."
 IT: "Hai liberato alcuni piloti americani, veterani di numerose battaglie. Essi possono mettere la loro esperienza a disposizione dell'equipaggio dei veicoli. I veicoli con i galloni dorati hanno un equipaggio esperto e sono più efficaci in combattimento."
@@ -27956,7 +27932,6 @@ END
 
 SCRIPT:TrainingSupply
 US: "You have liberated a USA Supply Center. Supply Centers collect supplies, providing you with the resources to build new buildings and units. Each Supply Center automatically generates a single Chinook helicopter that will gather supplies for you"
-DE: "Du hast ein Nachschublager der WA-Army befreit. Hier werden die Rohstoffe, die du für den Bau neuer Einheiten und Gebäude brauchst, gelagert. Jedes Nachschublager wird von einem Chinook-Transporthubschrauber mit frischen Rohstoffen versorgt."
 FR: "Vous avez libéré un Dépôt de ravitaillement américain. Ce type de bâtiment renferme du ravitaillement, vous permettant ainsi de construire de nouvelles unités et d'autres bâtiments. Chaque dépôt de ravitaillement génère automatiquement un hélicoptère Chinook qui récupère le ravitaillement pour vous."
 ES: "Has liberado un centro de suministros de E.E.U.U. Estos centros recolectan suministros, dándote recursos para construir nuevos edificios y unidades. Cada centro genera automáticamente un helicóptero Chinook que te traerá suministros."
 IT: "Hai liberato un Centro rifornimenti USA. Qui sono custodite le scorte che ti garantiscono le risorse necessarie per creare nuove strutture e unità. Ogni Centro rifornimenti dispone di un elicottero Chinook, in grado di raccogliere le risorse."
@@ -27971,7 +27946,6 @@ END
 
 SCRIPT:TrainingDozer
 US: "You have liberated a USA Construction Dozer. Left click on your new Construction Dozer to see what buildings it can create. Select the War Factory and choose a location for it to be built. Once done creating the War Factory, the Dozer will be available for other construction projects"
-DE: "Du hast einen Bulldozer der WA befreit. Linksklicke auf den Bulldozer, um dessen Bau-Liste einzublenden. Markiere in der Liste die Waffenfabrik und bestimme einen geeigneten Standort. Nach dem Bau der Waffenfabrik steht der Bulldozer für weitere Bauprojekte zur Verfügung."
 FR: "Vous avez libéré un Engin de chantier américain. Cliquez sur votre nouvel Engin de chantier pour voir quels sont les bâtiments qu'il peut construire. Sélectionnez le Complexe militaro-industriel et un endroit où le construire. Une fois que le Complexe est créé, l'Engin de chantier peut être utilisé pour d'autres projets de construction."
 ES: "Has liberado una excavadora de los E.E.U.U. Haz clic sobre ella para ver qué edificios puede crear. Selecciona la Fábrica de guerra y escoge un lugar para construirla. Una vez que la hayas construido, la Excavadora está disponible para otras construcciones."
 IT: "Hai liberato un Bulldozer da costruzione USA: clicca col pulsante sinistro su di esso per vedere che cosa puoi creare. Seleziona la Fabbrica militare e quindi un luogo adatto alla sua costruzione: non appena i lavori saranno conclusi, il Bulldozer sarà disponibile per altri progetti."
@@ -28001,7 +27975,6 @@ END
 
 SCRIPT:TrainingPower
 US: "You have liberated a USA Cold Fusion Reactor. Reactors are used by American and Chinese forces to power their base. Your power bar indicates how much power your base has. If your base runs low on power base defenses may go off-line and your radar will go out"
-DE: "Du hast den Fusionsreaktor der Westlichen Allianz befreit. Die Westliche Allianz und der Asiatische Pakt versorgen ihre Stützpunkte mit Atomenergie. Die Energieleiste zeigt das Energieniveau deines Stützpunktes an. Hast du zu wenig Energie, fallen die Defensivsysteme und das Radar deiner Basis aus."
 FR: "Vous avez libéré un Réacteur à fusion froide américain. Le Réacteur est utilisé par les Américains et les Chinois pour alimenter leurs bases. Votre jauge de puissance indique la quantité d'énergie de votre base. Si celle-ci est faible, vos défenses et votre radar risquent d'être désactivés."
 ES: "Has liberado un reactor de fusión fría de E.E.U.U. Estos reactores se usan en las bases de E.E.U.U. y chinas para dar energía. La barra indica la energía que tiene tu base. Si anda escasa, tus defensas y el radar no funcionarán."
 IT: "Hai liberato un Reattore a fusione a freddo USA. I Reattori sono utilizzati dalle forze americane e cinesi per fornire energia alle basi. La barra dell'energia indica quella a disposizione: se scarseggia, potrebbero disattivarsi sia le difese che il radar."
@@ -28031,7 +28004,6 @@ END
 
 SCRIPT:TrainingObjective
 US: "You have liberated an entire USA base and are now ready to carry the fight to the enemy. Each mission has mission objectives that you must follow in order to win the mission and to progress in your war against your enemies. Follow the mission objective to win the mission"
-DE: "Du hast den WA-Stützpunkt befreit und bist jetzt kampfbereit. Du musst in jeder Mission bestimmte Einsatzziele erreichen, um die Mission zu meistern und das nächste Kapitel des Spiels freizuschalten. Erfülle nun deine Einsatzziele, um die Mission erfolgreich abzuschließen."
 FR: "Vous avez libéré l'ensemble d'une base américaine et vous êtes désormais prêt à attaquer l'ennemi. Dans chaque mission, vous devez atteindre des objectifs afin de progresser contre l'ennemi. Atteignez tous les objectifs d'une mission pour l'accomplir."
 ES: "Has liberado una base entera de E.E.U.U. y ahora están preparados para luchar contra el enemigo. Cada misión tiene objetivos que debes seguir para ganar y progresar en la guerra contra tus enemigos. Sigue el objetivo de la misión para conseguirla."
 IT: "Hai liberato un'intera base USA, che ora è pronta per combattere contro il nemico. Ogni missione ha degli obiettivi particolari che devi raggiungere per vincere e progredire nella lotta contro il nemico. Persegui l'obiettivo della missione per conquistare la vittoria."
@@ -28329,7 +28301,7 @@ IT: "OBIETTIVI MISSIONE:\nConquistate il Centro comando a est per iniziare la pr
 KO: "임무 목표:\n생산 시작을 위해 동쪽 커맨드 센터부터 점령하십시오.\n반역자 300명을 처단하십시오."
 ZH: "任務目標：\n到東方指揮中心去開始生產。\n消滅三百位叛徒。"
 BP: "OBJETIVOS DA MISSÃO:\nCapture o Centro de Comando ao Leste para iniciar a produção.\nElimine 300 traidores."
-PL: "CELE MISJI:\nW celu rozpoczęcia produkcji zająć sztab znajdujący się na wschodzie .\nZabić 300 cywili."
+PL: "CELE MISJI:\nW celu rozpoczęcia produkcji zająć sztab znajdujący się na wschodzie.\nZabić 300 cywili."
 RU: "ЦЕЛИ МИССИИ:\nЗахватить командный центр на востоке чтобы начать производство.\nУбейте 300 предателей."
 AR: "MISSION OBJECTIVES:\nClaim the Command Center to the East to begin production\nKill 300 traitors"
 UK: "ЦІЛІ МІСІЇ:\nЗахопити командний центр на сході, щоб почати виробництво\nУбити 300 зрадників"
@@ -30506,7 +30478,7 @@ KO: "미국군 기지에 전력을 공급합니다.\n\n전력 공급: 5"
 ZH: "提供能源給美國基地。\n\n能源供應：5"
 BP: "Fornece energia para as bases dos E.U.A.\n\nEnergia Gerada: 5"
 PL: "Zaopatruje bazy amerykańskie w elektryczność.\n\nDostarczana energia: 5"
-RU: "Производит энергию для базы США.\n\Производит энергии : 5"
+RU: "Производит энергию для базы США.\n\Производит энергии: 5"
 AR: "ﺪﻋاﻮﻗ ﺪﻳوﺰﺘﺑ مﻮﻘﻳ\nﺔﯿﻜﻳﺮﻣﻷا ةﺪﺤﺘﻤﻟا تﺎﻳﻻﻮﻟا\n\n٥ : ﺔﺑﻮﻠﻄﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Забезпечує живлення для баз США\n\nЕнергія: 5"
 END
@@ -30522,7 +30494,7 @@ KO: "미국 병사들을 훈련시킵니다."
 ZH: "訓練美國士兵以派上戰場。"
 BP: "Treina soldados dos E.U.A. para serem usados nas batalhas."
 PL: "Szkoli do walki żołnierzy amerykańskich."
-RU: "Тренирует солдат армии США "
+RU: "Тренирует солдат армии США"
 AR: "ﻢﮫﻣاﺪﺨﺘﺳﻹ نﻮﯿﻜﻳﺮﻣأ دﻮﻨﺟ ﺐﻳرﺪﺗ\nكرﺎﻌﻤﻟاو بوﺮﺤﻟا ﻲﻓ"
 UK: "Тренує солдат США для використання в боях"
 END
@@ -33077,7 +33049,6 @@ END
 // context: Warning to the player when he already has the max of that unit type
 GUI:UnitMaxedOut
 US: "You already have the maximum for this unit"
-DE: "Du hast das Maximum für diese Einheit bereits erreicht."
 FR: "Vous avez déjà atteint le maximum pour cette unité."
 ES: "Ya tienes el máximo para esta unidad."
 IT: "Hai già raggiunto il limite massimo per questa unità."
@@ -36387,7 +36358,7 @@ KO: "중국 캠페인 훈장\n중국 캠페인을 완수하면 수여됩니다."
 ZH: "中國戰役勳章\n完成所有中國戰役以贏得此勳章。\n完成陣營的最高難度關卡來贏得最高的榮譽。"
 BP: "Medalha de Campanha da China\nComplete a Campanha da China para receber esta medalha.\nPara ganhar a maior medalha, vença a campanha no nível Difícil."
 PL: "Medal za kampanię chińską\nAby go zdobyć, ukończ kampanię Chin.\nZa ukończenie tej kampanii na poziomie brutalnym otrzymasz najwyższy stopień odznaczenia."
-RU: "Медаль Кампании Китая\nЗавершите кампанию  Китая на Высокой сложности, чтобы получить эту медаль"
+RU: "Медаль Кампании Китая\nЗавершите кампанию Китая на Высокой сложности, чтобы получить эту медаль"
 AR: "China Campaign Honor\nComplete the China Campaign to earn this honor\nBeat the campaign on Hard difficulty to achieve the highest honor"
 UK: "Відзнака китайської кампанії\nЗавершіть китайську кампанію, щоб отримати цю відзнаку\nПройдіть кампанію на важкому рівні складності, щоб отримати найвищу нагороду"
 END
@@ -38342,7 +38313,6 @@ END
 //          This message is displayed in the chat window of the multiplayer lobby.
 GUI:LocalPlayerNoMapWillTransfer
 US: "You do not have the map %ls. It will be transferred to you at game start"
-DE: "Du hast die Karte %ls nicht. Sie wird beim Spielstart auf dein System übertragen."
 FR: "Vous n'avez pas la carte %ls. Celle-ci vous sera transférée au début de la partie."
 ES: "No tienes el mapa %ls. Se te transferirá al comienzo de la partida."
 IT: "Non disponi della mappa %ls. Il trasferimento avverrà all'inizio della partita."
@@ -38640,7 +38610,6 @@ END
 // context: Tooltip in skirmish map selection
 TOOLTIP:MapHardSuccess
 US: "Beat this map against the maximum number of Hard opponents!"
-DE: "Glückwunsch! Du hast diese Karte gegen einen schweren Gegner gemeistert."
 FR: "Gagnez cette partie en Escarmouche contre le nombre maximal d'adversaires de niveau difficile !"
 ES: "¡Juega este mapa contra el máximo número de oponentes Brutales!"
 IT: "Congratulazioni! Hai superato questa mappa contro un avversario difficile!"
@@ -45062,7 +45031,6 @@ END
 
 GUI:InternetDisconnectionMenuBody2
 US: "It is possible that the person is attempting to reconnect so you may choose to wait until this player's timer has elapsed. When the timer counts down to 0 that person will be automatically removed from the game and the battle will continue"
-DE: "Es kann sein, dass die betreffende Person versucht, die Verbindung wieder herzustellen. Aus diesem Grund solltest Du warten bis der Countdown abgelaufen ist. In diesem Fall wird der Spieler automatisch entfernt und das Spiel wird fortgesetzt."
 FR: "Il est possible que la personne soit en train d'essayer de se reconnecter, vous pouvez donc choisir d'attendre que son compte à rebours soit terminé. Quand le compte à rebours sera terminé, cette personne sera exclue de la partie et la bataille pourra continuer."
 ES: "Es posible que algún jugador este intentando reconectar, así que puedes elegir esperar hasta que el tiempo s de este jugador concluya. Cuando el contador llegue a 0, esa persona será desconectada de la partida y la batalla continuará."
 IT: "E' possibile che il giocatore stia cercando di riconnettersi, quindi puoi attentere che abbia esaurito il tempo disponibile. Quando il timer raggiunge lo 0, il giocatore verrà automaticamente rimosso dal gioco e la partita continuerà."
@@ -45352,7 +45320,6 @@ END
 
 GUI:MustHaveAdminRights
 US: "You must have administrative rights to install a patch"
-DE: "Du musst Administratorrechte haben, um diesen Patch zu installieren."
 FR: "Vous devez avoir les droits administrateurs pour installer la mise à jour."
 ES: "Debes tener derechos de administrador para poder instalar un parche."
 IT: "Sono necessari i diritti di amministratore per installare la patch."
@@ -45398,7 +45365,6 @@ END
 
 GUI:AgeFailed
 US: "You must be 13 years of age or older to play this game online"
-DE: "Du musst mindestens 13 Jahre alt sein, um dieses Spiel online spielen zu können."
 FR: "Vous devez avoir au moins 13 ans pour jouer en ligne à ce jeu."
 ES: "Debes tener 13 años o más para poder jugar a este juego online."
 IT: "Devi avere 13 anni o più per giocare questo gioco online."
@@ -45763,7 +45729,6 @@ END
 
 TOOLTIP:MapMaxBrutalSuccess
 US: "Congratulations! You have beaten this map against the maximum number of Hard opponents!"
-DE: "Glückwunsch! Du hast diese Karte gegen die maximale Anzahl der schweren Gegner gemeistert."
 FR: "Félicitations ! Vous avez terminé cette carte en affrontant le maximum d'adversaires de niveau difficile !"
 ES: "¡Enhorabuena! ¡Has ganado esta partida contra el número máximo de oponentes Brutales!"
 IT: "Congratulazioni! Hai superato questa mappa contro il numero massimo di avversari di livello Brutale!"
@@ -49034,7 +48999,7 @@ DE: "MOAB: Die Mutter aller Bomben"
 FR: "BAM : Bombe Aéro-incendiaire Massive"
 ES: "MDTB: Madre de todas las bombas"
 IT: "Madre di tutte le bombe"
-KO: "MOAB : Mother Of All Bombs"
+KO: "MOAB: Mother Of All Bombs"
 ZH: "炸彈之母：炸彈之母"
 BP: "MTB: Mãe de Todas as Bombas"
 PL: "Bomba nad bombami"
@@ -50579,7 +50544,7 @@ KO: "힌트:\n헬릭스는 업그레이드하면 네이팜탄을 투하할 수 �
 ZH: "建議：\n螺旋直昇機可以升級攜帶汽油彈。\n對下方的目標進行轟炸。"
 BP: "DICA:\nO Helix pode ser atualizado para lançar bombas de napalm.\nElas podem ser lançadas sobre alvos abaixo do Helix."
 PL: "RADA:\nHelisę można wyposażyć w bomby napalmowe.\nBomby te mogą być zrzucane na cele znajdujące się pod Helisą."
-RU: "ПОДСКАЗКА:\nНа Хеликс можно установить бомбы с Напалмом\nИх можно будет сбрасывать на цели находящиеся прямо  под Хеликсом"
+RU: "ПОДСКАЗКА:\nНа Хеликс можно установить бомбы с Напалмом\nИх можно будет сбрасывать на цели находящиеся прямо под Хеликсом"
 AR: "HINT:\nThe Helix can be upgraded to drop napalm bombs\nThese can be dropped on targets beneath the Helix"
 UK: "ПІДКАЗКА:\nХелікс можна вдосконалити, щоб скидати напалмові бомби\nна ворогів"
 END
@@ -50597,7 +50562,7 @@ KO: "힌트:\n배틀 벙커, 프로퍼갠더 타워,\n혹은 개틀링 캐논으
 ZH: "建議：\n您可以以戰鬥碉堡、思想強化電塔、\n或蓋特機槍來升級螺旋直昇機。"
 BP: "DICA:\nVocê pode atualizar um Helix com um Bunker de Combate,\numa Torre de Propaganda ou um Canhão Gattling."
 PL: "RADA:\nHelisę można wyposażyć w bunkier bojowy,\nmegafon lub działko gattling."
-RU: "ПОДСКАЗКА:\nВы можете установить Боевой бункер на  Хеликс,\nВышку пропаганды или Пулеметную турель"
+RU: "ПОДСКАЗКА:\nВы можете установить Боевой бункер на Хеликс,\nВышку пропаганды или Пулеметную турель"
 AR: "HINT:\nYou can upgrade a Helix with a Battle Bunker,\nPropaganda Tower, or Gattling Cannon"
 UK: "ПІДКАЗКА:\nВи можете покращити Хелікс за допомогою бойового бункера,\nвежі пропаганди, або гармати Гатлінга"
 //patch104p-core-end
@@ -50611,7 +50576,7 @@ KO: "힌트:\n배틀 벙커, 스피커 타워,\n혹은 개틀링 캐논으로 �
 ZH: "建議：\n您可以以戰鬥碉堡、思想強化電塔、\n或蓋特機槍來升級螺旋直昇機。"
 BP: "DICA:\nVocê pode atualizar um Helix com um Bunker de Combate,\numa Torre de Alto-Falantes ou um Canhão Gattling."
 PL: "RADA:\nHelisę można wyposażyć w bunkier bojowy,\nmegafon lub działko gattling."
-RU: "ПОДСКАЗКА:\nВы можете установить Боевой бункер на  Хеликс,\nВышку пропаганды или Пулеметную турель"
+RU: "ПОДСКАЗКА:\nВы можете установить Боевой бункер на Хеликс,\nВышку пропаганды или Пулеметную турель"
 AR: "HINT:\nYou can upgrade a Helix with a Battle Bunker,\nPropaganda Tower, or Gattling Cannon"
 UK: "ПІДКАЗКА:\nВи можете покращити Хелікс за допомогою бойового бункера,\nвежі пропаганди, або гармати Гатлінга"
 //patch104p-optional-end
@@ -55168,7 +55133,7 @@ DE: "NACHRICHT:\nUnser internationales Ansehen ist sehr niedrig!\nZerstören Sie
 FR: "DERNIERES NOUVELLES DU FRONT :\nL'opinion internationale ne nous est pas favorable !\nDétruisez les statues de la GLA qui parsèment la ville."
 ES: "TRANSMISIÓN:\n¡Nuestra reputación internacional es muy baja!\nDestruye las estatuas del GLA que hay en la ciudad."
 IT: "TRASMISSIONE IN ARRIVO:\nLa nostra reputazione internazionale è molto bassa!\nDistruggete le statue dell'ELG sparse per la città."
-KO: "수신 메시지:\n우리의 국제적 지지도가 매우 낮아지고 있습니다!\n도시 전역에서 찾아낸 GLA 동상을 파괴하십시오 ."
+KO: "수신 메시지:\n우리의 국제적 지지도가 매우 낮아지고 있습니다!\n도시 전역에서 찾아낸 GLA 동상을 파괴하십시오."
 ZH: "訊息：\n我們的國際聲望很低！\n摧毀在城市內發現的全球解放軍雕像。"
 BP: "RECEBENDO TRANSMISSÃO:\nNosso Prestígio Internacional está muito baixo.\nDestrua as estátuas do E.L.G. que encontrar pela cidade."
 PL: "ODEBRANA WIADOMOŚĆ:\nPoziom opinii międzynarodowej na nasz temat jest bardzo niski!\nNiszcz posągi AŚW rozproszone po mieście."
@@ -59157,7 +59122,6 @@ END
 
 GUI:ChallengeWinText
 US: "Congratulations, you've defeated %s"
-DE: "Glückwunsch. Du hast %s besiegt."
 FR: "Félicitations, vous avez vaincu le %s."
 ES: "Felicidades, has derrotado a %s."
 IT: "Congratulazioni, avete sconfitto il %s."
@@ -59457,7 +59421,6 @@ END
 
 ACADEMY:TryBuildingRadar
 US: "The Fog of War surrounds us all. One helpful way to see through the pea soup is via radar. Each faction is unique in how it obtains the eye in the sky. The USA Command Center automatically comes with radar, the Chinese Command Center must be upgraded and the GLA must build a Radar Van from its Arms Dealer"
-DE: "Wir sind vom Nebel des Krieges umgeben. Du brauchst also Radaranlagen. Während in die Kommandozentralen der WA bereits Radarsysteme integriert sind, muss der Asiatische Pakt seine Kommandozentralen zuerst aufrüsten. Die IBG kauft bei Waffenhändlern Radarwagen."
 FR: "Le brouillard de guerre nous entoure. Le radar est le moyen le plus efficace de percer cette purée de pois. Chaque faction a une manière particulière de l'obtenir. Le Poste de commandement US en est toujours pourvu, alors que celui des Chinois doit être amélioré pour l'obtenir. La GLA doit quant à elle construire un Radar mobile par l'intermédiaire de son Trafiquant d'armes."
 ES: "La niebla de la guerra nos rodea a todos. Un modo práctico de ver a través del puré de guisantes es el radar. Cada facción tiene sus propios sistemas de detección. El centro de mando de EE.UU. incluye el radar, el chino hay que mejorarlo y el GLA debe construir una furgoneta radar en su tienda de armas"
 IT: "La foschia avvolge ogni cosa: il radar rappresenta un ottimo metodo per superare questo ostacolo. Ogni fazione ha il proprio metodo per osservare la situazione dall'alto: il Centro comando USA è già dotato di un radar, quello cinese lo ottiene come aggiornamento e l'ELG deve costruire un Furgone radar dal Trafficante d'armi."
@@ -59562,7 +59525,6 @@ END
 
 ACADEMY:TryDragSelectingUnits
 US: "Manipulating your army is one of the trickiest things a General must learn. While you can click on each individual unit, it's usually faster to \"lasso\" a group of units. Simply click and drag the box around the units. They will now be in your control. If you click on another area the units will move to this spot"
-DE: "Die Befehligung einer Armee ist nicht ganz einfach. Du kannst alle Einheiten per Mausklick einzeln auswählen. Allerdings ist dies relativ mühsam. Klicke daher mit der linken Maustaste und ziehe einen Auswahlrahmen um die gewünschten Einheiten. Diese warten nun auf deine Befehle. Klicke jetzt auf einen beliebigen Punkt der Karte, um deine Truppen in Bewegung zu setzen."
 FR: "Diriger une armée est la tâche la plus complexe dont doit s'acquitter un général. Il est possible de sélectionner les unités une par une, mais bien plus rapide de les sélectionner par groupe. Pour cela, cliquez et faites glisser le curseur de votre souris pour dessiner un rectangle de sélection autour des unités. Relâchez le bouton et ces unités attendront vos ordres. Cliquez ensuite à un autre endroit pour les y envoyer."
 ES: "Una de las cosas más delicadas que debe aprender un general es a manipular su ejército. Aunque puedes hacer clic en cada unidad, normalmente es más rápido \"echar el lazo\" a un grupo. Haz clic y arrastra un recuadro en torno a las unidades, que pasarán a estar bajo tu control. Si haces clic en otra zona, las unidades irán allí"
 IT: "La gestione del proprio esercito è il compito più difficile per ogni generale. Anche se puoi selezionare ogni singola unità, è di solito più comodo \"circondare\" un gruppo di unità, tenendo premuto il pulsante e disegnando un riquadro di selezione. Così tutte le unità saranno pronte all'azione. Un clic su un punto qualsiasi lo imposterà come destinazione."
@@ -59812,7 +59774,6 @@ END
 
 ACADEMY:DoubleClickAttackMoveGuard
 US: "General, we have created a new way to direct your army. Simply select your units and double click the destination area. Your units will attack-move to the spot and then guard it. You may enable this through the options menu"
-DE: "Wir haben die Steuerung deiner Truppen vereinfacht. Wähle die gewünschten Einheiten einfach aus und doppelklicke auf die Zielposition. Die Einheiten rücken nun zum Zielgebiet vor und bewachen es. Du kannst diese Funktion im Optionen-Menü aktivieren."
 FR: "Général, nous avons élaboré une nouvelle stratégie pour diriger votre armée. Sélectionnez vos unités et faites un double clic sur leur zone de destination. Vos unités se rendront dans la zone et attaqueront, puis tiendront la position. Vous pouvez activer cette option depuis le menu des options."
 ES: "General, hemos creado una nueva forma de dirigir tu ejército. Selecciona tus unidades y haz doble clic en la zona de destino. Éstas atacarán/avanzarán a ese punto y luego lo protegerán. Puedes activar esto por medio del menú de Opciones"
 IT: "Abbiamo creato un nuovo metodo per impartire ordini all'esercito: seleziona le tue unità e fai doppio clic sulla destinazione. Verrà eseguito un movimento di combattimento, seguito da un presidio. Questa funzione si può attivare tramite il menu delle opzioni."
@@ -69315,7 +69276,7 @@ DE: "*Yes, yes. I will do what you say!"
 FR: "*Yes, yes. I will do what you say!"
 ES: "\nSí, sí. ¡Haré lo que diga!"
 IT: "\nSì, sì, farò quello che dite."
-KO: "\n네, 네 , 분부대로 하겠습니다!"
+KO: "\n네, 네, 분부대로 하겠습니다!"
 ZH: "\n好的，我會照你的意思去做。"
 BP: "*Yes, yes. I will do what you say!"
 PL: "*Yes, yes. I will do what you say!"
@@ -69750,7 +69711,7 @@ DE: "*Let's light up these GLA intruders! Fox 1!"
 FR: "*Let's light up these GLA intruders! Fox 1!"
 ES: "\n¡Vamos a enfocar a esos intrusos del GLA! ¡Zorro 1!"
 IT: "\nFacciamo a pezzi le forze dell'ELG! Fox 1!"
-KO: "\nGLA 침입자들에 맞서 싸우자! 폭스1 !"
+KO: "\nGLA 침입자들에 맞서 싸우자! 폭스1!"
 ZH: "\n讓我們炸毀全球解放軍入侵者吧！狐狸一號！"
 BP: "*Let's light up these GLA intruders! Fox 1!"
 PL: "*Let's light up these GLA intruders! Fox 1!"
@@ -72268,7 +72229,7 @@ DIALOGEVENT:MisUSA02xBrf02Subtitle
 US: "*Most of our fleet survived the GLA Baikonur Attack. Our Aircraft Carrier and Battleship escorts are at your disposal to aid with this operation"
 DE: "*Most of our fleet survived the GLA Baikonur Attack. Our Aircraft Carrier and Battleship escorts are at your disposal to aid with this operation"
 FR: "*Most of our fleet survived the GLA Baikonur Attack. Our Aircraft Carrier and Battleship escorts are at your disposal to aid with this operation"
-ES: "\nCasi toda la flota sobrevivió al ataque de Baikonur del GLA.\nNuestro portaaviones y los buques escolta están a tu disposición ."
+ES: "\nCasi toda la flota sobrevivió al ataque de Baikonur del GLA.\nNuestro portaaviones y los buques escolta están a tu disposición."
 IT: "\nBuona parte della flotta è sopravvissuta all'attacco ELG di Baikonur.\nPortaerei e navi di scorta sono a vostra disposizione."
 KO: "\n대부분의 우리의 함대가 GLA의 바이코누르 공격에서 살아남았습니다.\n항공모함과 호위 전함들은 이번 작전 지원을 위해 장군님의 명령만 기다리고 있습니다."
 ZH: "\n我方大部分艦隊，在全球解放軍巴以庫爾所發動的攻擊中倖存，\n因此航空母艦及護航戰艦群將在你的指揮之下，支援此次作戰。"
@@ -79692,18 +79653,18 @@ UK: "*We are kicking you like a wounded goat, General. Admit defeat to spare you
 END
 
 DIALOGEVENT:Taunts_BossGLA093Subtitle
-US: "*You are defeated. This is what happens to all who stand against me , General"
-DE: "*You are defeated. This is what happens to all who stand against me , General"
+US: "*You are defeated. This is what happens to all who stand against me, General"
+DE: "*You are defeated. This is what happens to all who stand against me, General"
 FR: "*You are defeated. This is what happens to all who stand against me , General"
-ES: "*You are defeated. This is what happens to all who stand against me , General"
-IT: "*You are defeated. This is what happens to all who stand against me , General"
+ES: "*You are defeated. This is what happens to all who stand against me, General"
+IT: "*You are defeated. This is what happens to all who stand against me, General"
 KO: "\n자넨 졌어. 나한테 도전하면 다 이렇게 되지."
 ZH: "\n你被擊敗了，將軍，這就是所有與我為敵的人的下場。"
-BP: "*You are defeated. This is what happens to all who stand against me , General"
-PL: "*You are defeated. This is what happens to all who stand against me , General"
-RU: "*You are defeated. This is what happens to all who stand against me , General"
+BP: "*You are defeated. This is what happens to all who stand against me, General"
+PL: "*You are defeated. This is what happens to all who stand against me, General"
+RU: "*You are defeated. This is what happens to all who stand against me, General"
 AR: "*You are defeated. This is what happens to all who stand against me , General"
-UK: "*You are defeated. This is what happens to all who stand against me , General"
+UK: "*You are defeated. This is what happens to all who stand against me, General"
 END
 
 DIALOGEVENT:Taunts_BossGLA094Subtitle
@@ -80762,7 +80723,7 @@ DE: "*Here comes the hammer, Punk, and you don't want to be the nail"
 FR: "*Here comes the hammer, Punk, and you don't want to be the nail"
 ES: "*Here comes the hammer, Punk, and you don't want to be the nail"
 IT: "*Here comes the hammer, Punk, and you don't want to be the nail"
-KO: "\n여기 망치가 간다네 ,친구. 못이 되고 싶진 않겠지?"
+KO: "\n여기 망치가 간다네, 친구. 못이 되고 싶진 않겠지?"
 ZH: "\n鐵鎚來了，笨蛋，你該不會想要當釘子吧。"
 BP: "*Here comes the hammer, Punk, and you don't want to be the nail"
 PL: "*Here comes the hammer, Punk, and you don't want to be the nail"
@@ -84396,7 +84357,7 @@ DE: "*(Paradrop)Like a swarm of locusts they decend from the sky to devour all t
 FR: "*(Paradrop)Like a swarm of locusts they descend from the sky to devour all those who stand against China"
 ES: "*(Paradrop)Like a swarm of locusts they descend from the sky to devour all those who stand against China"
 IT: "*(Paradrop)Like a swarm of locusts they descend from the sky to devour all those who stand against China"
-KO: "\n하늘을 뒤덮은 메뚜기떼들처럼 중국에 대항하는 자는 누구든 먹어치우지 ."
+KO: "\n하늘을 뒤덮은 메뚜기떼들처럼 중국에 대항하는 자는 누구든 먹어치우지."
 ZH: "\n（傘兵）就像一群蝗蟲般，他們從天而降，消滅掉那些對抗中國軍的人。"
 BP: "*(Paradrop)Like a swarm of locusts they descend from the sky to devour all those who stand against China"
 PL: "*(Paradrop)Like a swarm of locusts they descend from the sky to devour all those who stand against China"
@@ -88978,18 +88939,18 @@ UK: "*Handsome Generals always win battles"
 END
 
 DIALOGEVENT:Taunts_Stealth016Subtitle
-US: "*You'll never see me until it is too late , General"
-DE: "*You'll never see me until it is too late , General"
+US: "*You'll never see me until it is too late, General"
+DE: "*You'll never see me until it is too late, General"
 FR: "*You'll never see me until it is too late , General"
-ES: "*You'll never see me until it is too late , General"
-IT: "*You'll never see me until it is too late , General"
+ES: "*You'll never see me until it is too late, General"
+IT: "*You'll never see me until it is too late, General"
 KO: "\n나를 발견했을 땐 이미 늦었을 것이네, 장군."
 ZH: "\n等您看到我的時候，就表示已經太遲了，將軍。"
-BP: "*You'll never see me until it is too late , General"
-PL: "*You'll never see me until it is too late , General"
-RU: "*You'll never see me until it is too late , General"
+BP: "*You'll never see me until it is too late, General"
+PL: "*You'll never see me until it is too late, General"
+RU: "*You'll never see me until it is too late, General"
 AR: "*You'll never see me until it is too late , General"
-UK: "*You'll never see me until it is too late , General"
+UK: "*You'll never see me until it is too late, General"
 END
 
 DIALOGEVENT:Taunts_Stealth017Subtitle
@@ -98005,7 +97966,7 @@ KO: "기지에 전력을 공급합니다.\n\n전력 공급: 5"
 ZH: "提供能源給基地。\n\n能源供應：5"
 BP: "Fornece energia para as bases.\n\nEnergia Gerada: 5"
 PL: "Zaopatruje bazy w elektryczność.\n\nDostarczana energia: 5"
-RU: "Обеспечивает базу энергией\n\nВыход энергии : 5"
+RU: "Обеспечивает базу энергией\n\nВыход энергии: 5"
 AR: "ﺪﻋاﻮﻘﻠﻟ ﺔﻗﺎﻄﻟا دوﺰﻣ\n\n٥ :ةﺰﮫﺠﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Забезпечує живлення бази\n\nЕнергія: 5"
 END
